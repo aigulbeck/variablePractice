@@ -10,3 +10,12 @@ var birthdayMonth = 8
 var assignmentSubmitted = false
 var essaySubmitted = true
 var sessionJoined = true
+
+message = "Hi"
+console.log(message);
+
+affirmation = "Be strong"
+console.log(affirmation);
+
+essaySubmitted = false
+console.log(essaySubmitted);
