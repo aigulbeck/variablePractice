@@ -3,3 +3,7 @@
 var name = "Dear user"
 var message = "Welcome"
 var affirmation = "Stay positive"
+
+var favoriteNumber = 7
+var birthdayMonth = 8
+
